@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\androidworkspace\\assemble5\\assemble\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_banner.png.flat",
+        "source": "E:\\androidworkspace\\assemble5\\assemble\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "E:\\androidworkspace\\assemble5\\assemble\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_icon.png.flat",
+        "source": "E:\\androidworkspace\\assemble5\\assemble\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    }
+]
